@@ -1,0 +1,60 @@
+html{
+    background-color: rgb(238, 218, 162);
+}
+.titulocentro{
+    padding: 30px 450px;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+.cajapadre{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.girasol{
+    background-color: rgb(243, 239, 239);
+    flex-direction: row;
+    padding: 20px;
+    margin: 20px;
+}
+.passiflora{
+    background-color: rgb(243, 239, 239);
+    flex-direction: row;
+    padding: 20px;
+    margin: 20px;
+}
+.florespalidas{
+    background-color: rgb(243, 239, 239);
+    flex-direction: row;
+    padding: 20px;
+    margin: 20px;
+}
+.cajapadre2{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.poliantes{
+    background-color: rgb(243, 239, 239);
+    flex-direction: row;
+    padding: 20px;
+    margin: 20px;
+}
+.ficus{background-color: rgb(243, 239, 239);
+    flex-direction: row;
+    padding: 20px;
+    margin: 20px;
+}
+.dendrobium{background-color: rgb(243, 239, 239);
+    flex-direction: row;
+    padding: 20px;
+    margin: 20px;
+}
+li{
+    list-style: none;
+    list-style-image: url(../imagen_flores/imagenes/sol.png);
+}
